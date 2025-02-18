@@ -1,9 +1,9 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+![](https://github.com/YashwanthKumaran/netflix_project/blob/main/1688370117923.png)
 
 ## Overview
-This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
+This project focuses on analyzing Netflix's movie and TV show dataset using SQL to uncover meaningful insights. The objective is to explore patterns, trends, and key business questions related to Netflix's content library. This README outlines the project's goals, the business challenges addressed, the analytical approach taken, key findings, and final conclusions.
 
 ## Objectives
 
@@ -246,6 +246,8 @@ GROUP BY category;
 ```
 
 **Objective:** Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
+
+
 
 ## Findings and Conclusion
 
