@@ -265,6 +265,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 
 
-- **LinkedIn**: [Connect with me professionally]([https://www.linkedin.com/in/najirr](https://www.linkedin.com/in/yashwanth-kumaran-522260249/))
+- **LinkedIn**: [Connect with me professionally]([https://www.linkedin.com/in/najirr](https://www.linkedin.com/in/yashwanth-kumaran-522260249/])
 
 Thank you!
