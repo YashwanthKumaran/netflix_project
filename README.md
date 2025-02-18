@@ -1,2 +1,2 @@
 # Netflix Data Analysis using SQL
-[NETFLIX] {}
+[NETFLIX] {"C:\Users\91875\Downloads\1688370117923.png"}
