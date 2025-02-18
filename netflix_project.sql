@@ -68,6 +68,11 @@ WHERE
 	AND
 	duration = (SELECT MAX(duration) FROM netflix);
 
+-- 6. Find Content Added in the Last 5 Years
+SELECT *
+FROM netflix
+WHERE TO_DATE(date_added, 'Month DD, YYYY') >= CURRENT_DATE - INTERVAL '5 years';
+
 -- 7. Find All Movies/TV Shows by Director 
 SELECT *
 FROM netflix
