@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![](https://github.com/YashwanthKumaran/netflix_project/blob/main/1688370117923.png)
+![](https://github.com/YashwanthKumaran/netflix_project/blob/main/image.png)
 
 ## Overview
 This project focuses on analyzing Netflix's movie and TV show dataset using SQL to uncover meaningful insights. The objective is to explore patterns, trends, and key business questions related to Netflix's content library. This README outlines the project's goals, the business challenges addressed, the analytical approach taken, key findings, and final conclusions.
